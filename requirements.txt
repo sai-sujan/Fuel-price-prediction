@@ -33,7 +33,6 @@ Markdown==3.3.3
 MarkupSafe 
 matplotlib
 mccabe==0.6.1
-mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 numpy 
